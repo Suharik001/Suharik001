@@ -6,7 +6,7 @@
 
 I am a beginner IOS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suharik001&show_icons=true&theme=radical)](https://github.com/Suharik001/github-readme-stats)
+[![Suharik001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Suharik001&show_icons=true&theme=radical)](https://github.com/Suharik001)
 
 <div id="badges">
   <a href="https://t.me/Suharik001">
